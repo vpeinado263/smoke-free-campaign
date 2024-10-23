@@ -2,8 +2,6 @@ import Head from "next/head";
 
 export default function Home() {
 
-  const lista = ["esto", "se va", "a", "aprender"]
-
   return (
     <>
       <Head>
@@ -13,7 +11,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        
+        <h1>Articulos recientes</h1>
+
       </main>
     </>
   );
