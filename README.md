@@ -1,40 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 1ra Clase-React 🚀
 
-## Getting Started
+Este proyecto fue creado como parte de mi aprendizaje en React y Next.js, con el objetivo de mostrar mis habilidades en el desarrollo de aplicaciones web utilizando tecnologías modernas. El proyecto está diseñado para demostrar conceptos como el uso de componentes, JSX, transpilación con Babel, renderizado condicional y la integración de Next.js para mejorar el SEO y la experiencia del usuario.
 
-First, run the development server:
+## Tecnologías Utilizadas 🛠️
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **Next.js**: Framework basado en React que facilita el desarrollo de aplicaciones web con renderizado en el servidor y optimización para SEO.
+- **Babel**: Transpilador que convierte el código de React (JSX) en JavaScript compatible con navegadores antiguos.
+- **npm**: Gestor de paquetes utilizado para instalar dependencias como React, Next.js, y otras librerías.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Características del Proyecto 🌟
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+- **Componentes Reutilizables**: Uso de componentes de React para crear interfaces modulares.
+- **JSX**: Código JSX para escribir HTML directamente dentro de JavaScript.
+- **Transpilación**: Configuración de Babel para convertir código moderno de JavaScript a versiones compatibles con navegadores más antiguos.
+- **Virtual DOM**: React optimiza la actualización de la interfaz utilizando el Virtual DOM.
+- **Renderizado Condicional**: Uso de operadores lógicos para mostrar u ocultar componentes dinámicamente.
+- **Next.js**: Mejora el SEO y permite el renderizado del lado del servidor, haciendo que las aplicaciones sean más rápidas y optimizadas.
+- **Estilización Modular**: Uso de estilos globales y módulos de estilo para separar y organizar el CSS de manera eficiente.
