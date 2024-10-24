@@ -17,8 +17,8 @@ const Home = () => {
       <div className={styles.container}>
       <Header/>
       <main className={styles.main}>
-        <h1>El cigarrillo y la nicotina</h1>
-        <p>El cigarrillo es un producto de consumo que contiene nicotina, una sustancia altamente adictiva. La adiccion al tabaco afecta a millones de peronas en todo el Mundo, causando graves problemas en la salud del individuo.</p>
+        <h2>El cigarrillo y la nicotina</h2>
+        <p>El cigarrillo es un producto de consumo que contiene nicotina, una sustancia altamente adictiva. La adiccion al tabaco afecta a millones de peronas en todo el Mundo, causando graves problemas en la salud.</p>
       </main>
       <Footer/>
       </div>
