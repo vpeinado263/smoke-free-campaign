@@ -11,8 +11,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1>Articulos recientes</h1>
-
+        <h1>Blog del cigarrillo y la nicotina</h1>
+        <p>El cigarrillo es un producto de consumo que contiene nicotina, una sustancia altamente adictiva. La adiccion al tabaco afecta a millones de peronas en todo el Mundo, causando graves problemas en la salud del individuo.</p>
       </main>
     </>
   );
