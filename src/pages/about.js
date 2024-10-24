@@ -14,7 +14,6 @@ const about = () => {
             Fumar cigarrillos puede llevar a enfermedades como el cáncer, problemas respiratorios, y enfermedades
             cardíacas. El consumo prolongado de tabaco es extremadamente dañino para la salud.
             </p>
-            <a href='/about'>Conocé mas sobre la adiccion al cigarrillo.</a>
         </main>
         <Footer/>
     </div>
