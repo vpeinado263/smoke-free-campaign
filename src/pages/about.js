@@ -4,15 +4,16 @@ import Header from './components/Header';
 
 const about = () => {
   return (
-    <div>
+    <div className={Styles.container}>
         <Header/>
-        <main>
+        <main className={styles.main}>
             <h2>La Adiccion ala nicotina</h2>
             <p>
             La nicotina es una droga que se encuentra en los cigarrillos y que genera una fuerte dependencia.
             Fumar cigarrillos puede llevar a enfermedades como el cáncer, problemas respiratorios, y enfermedades
             cardíacas. El consumo prolongado de tabaco es extremadamente dañino para la salud.
             </p>
+            <a href='/about'>Conocé mas sobre la adiccion al cigarrillo.</a>
         </main>
         <Footer/>
     </div>
