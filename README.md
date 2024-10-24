@@ -20,3 +20,13 @@ Este proyecto fue creado como parte de mi aprendizaje en React y Next.js, con el
 ## Desafíos🏆
 
 Uno de los principales desafíos fue aprender a usar JSX y entender la diferencia entre las etiquetas HTML tradicionales y las funciones de React. Otro desafío fue configurar Babel y Next.js para trabajar en conjunto, optimizando el SEO y asegurando que mi aplicación funcione tanto del lado del servidor como del cliente.
+
+## Extensiones
+
+Para facilitar el desarrollo en este proyecto, instalé **ES7 React/Redux/React-Native snippets** en Visual Studio Code. Esta extensión proporciona atajos útiles para crear componentes de React de manera más eficiente.
+
+### Atajos Útiles
+
+- `rafc`: Genera un componente funcional con exportación por defecto.
+- `rfc`: Genera un componente funcional sin exportación.
+- `rcc`: Genera un componente basado en clases.
