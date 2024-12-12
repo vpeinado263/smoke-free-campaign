@@ -30,5 +30,5 @@ Para facilitar el desarrollo en este proyecto, instalé **ES7 React/Redux/React-
 - `rfc`: Genera un componente funcional sin exportación.
 - `rcc`: Genera un componente basado en clases.
 
-Puedes ver el proyecto en vivo aquí: [1ra-Tarea-REACT-NEXT.JS](https://1ra-tarea-react-next-js.vercel.app/)
+Puedes ver el proyecto en vivo aquí: [1ra-Tarea-REACT-NEXT.JS](https://el-habito-de-fumar.vercel.app/)
   
