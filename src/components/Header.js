@@ -4,7 +4,7 @@ import Link from "next/link";
 const Header = () => {
   return (
     <header>
-        <h1>El Hábito de fumar</h1>
+        <h1>Campania sin Tabaco</h1>
         <nav>
             <Link href='/'>Inicio</Link> | <Link href='/about'>Aceca de la adiccion</Link>
         </nav>
