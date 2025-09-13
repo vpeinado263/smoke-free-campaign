@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <p>
-        © 2024 Blog sobre Cigarrillo y Nicotina. Todos los derechos reservados.
+        © 2025 Blog sobre Cigarrillo y Nicotina. Todos los derechos reservados.
       </p>
     </footer>
   );
