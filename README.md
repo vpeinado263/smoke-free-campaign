@@ -30,4 +30,8 @@ Para facilitar el desarrollo en este proyecto, instalé **ES7 React/Redux/React-
 - `rfc`: Genera un componente funcional sin exportación.
 - `rcc`: Genera un componente basado en clases.
 
+### Resultado
+
+Este proyecto no solo me permitió construir y desplegar mi primera aplicación con Next.js en Vercel, sino también dar un paso firme en mi camino como desarrollador web.
+
 Puedes ver el proyecto en vivo aquí: [1ra-Tarea-REACT-NEXT.JS](https://el-habito-de-fumar.vercel.app/)
