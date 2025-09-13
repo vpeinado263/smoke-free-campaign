@@ -1,6 +1,6 @@
 # 1ra-Tarea-REACT-NEXT.JS
 
-Este proyecto fue creado como parte de mi aprendizaje en React y Next.js, con el objetivo de mostrar mis habilidades en el desarrollo de aplicaciones web utilizando tecnologías modernas.
+Este proyecto fue creado como parte de mi aprendizaje en React y Next.js.
 
 ## Tecnologías Utilizadas
 
