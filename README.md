@@ -2,7 +2,7 @@
 
 Este proyecto fue creado como parte de mi aprendizaje en React y Next.js, con el objetivo de mostrar mis habilidades en el desarrollo de aplicaciones web utilizando tecnologías modernas.
 
-## Tecnologías Utilizadas 
+## Tecnologías Utilizadas
 
 - **React**: Biblioteca de JavaScript para construir interfaces de usuario.
 - **Next.js**: Framework basado en React que facilita el desarrollo de aplicaciones web con renderizado en el servidor y optimización para SEO.
@@ -31,4 +31,3 @@ Para facilitar el desarrollo en este proyecto, instalé **ES7 React/Redux/React-
 - `rcc`: Genera un componente basado en clases.
 
 Puedes ver el proyecto en vivo aquí: [1ra-Tarea-REACT-NEXT.JS](https://el-habito-de-fumar.vercel.app/)
-  
