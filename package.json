@@ -11,7 +11,7 @@
     "format": "prettier --write \"frontend/**/*.{js,jsx,ts,tsx,json,css,md}\""
   },
   "dependencies": {
-    "next": "^15.1.2",
+    "next": "15.1.11",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
